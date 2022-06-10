@@ -1,5 +1,5 @@
 # Intermediate-Java-Programs
-iate Java Programs
+
 1. Factorial Program In Java
 2. Calculate Electricity Bill
 3. Calculate Average Of N Numbers
