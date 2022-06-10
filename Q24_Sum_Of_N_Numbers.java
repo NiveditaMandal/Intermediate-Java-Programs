@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q14_Armstrong_Number {
+public class Q24_Sum_Of_N_Numbers {
     public static void main(String[] args) {
         double sum = 0;
         Scanner in = new Scanner(System.in);
