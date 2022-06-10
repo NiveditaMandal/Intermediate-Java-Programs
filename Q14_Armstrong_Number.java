@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q14_Armstrong_Number1 {
+public class Q14_Armstrong_Number {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("This program checks whether the entered number is armstrong or not.");
